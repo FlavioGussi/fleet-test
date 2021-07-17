@@ -10,7 +10,7 @@ metadata:
   name: simple
   namespace: fleet-local
 spec:
-  repo: https://github.com/rancher/fleet-examples
+  repo: https://github.com/FlavioGussi/fleet-test
   paths:
   - simple
 ```
